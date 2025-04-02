@@ -1,0 +1,58 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Strawberry Cake Recipe</title>
+   <link rel="stylesheet" href="kbye.css" type="text/css">
+
+</head>
+<body>
+    <!-- Main title of the recipe -->
+     <header>
+        <center><h1>Strawberry Cake Recipe</h1></center>
+        </header>
+    <!-- Description of the recipe -->
+    <center><p>
+        This delightful Strawberry Cake is a perfect dessert for any occasion. 
+        It's light, fluffy, and bursting with fresh strawberry flavor, making it a favorite among fruit lovers!
+    </p></center>
+
+    <!-- Section for ingredients -->
+    <center><h2>Ingredients</h2></center>
+    <center><ul>
+        <!-- Unordered list of ingredients -->
+        <li>2 cups all-purpose flour</li>
+        <li>1 ½ cups granulated sugar</li>
+        <li>½ cup unsalted butter, softened</li>
+        <li>1 cup milk</li>
+        <li>3 large eggs</li>
+        <li>2 teaspoons baking powder</li>
+        <li>1 teaspoon vanilla extract</li>
+        <li>1 ½ cups fresh strawberries, pureed</li>
+        <li>1 cup fresh strawberries, sliced (for decoration)</li>
+        <li>Whipped cream (for serving)</li>
+    </ul></center>
+
+    <!-- Section for method -->
+    <center><h2>Method</h2></center>
+    <center><ol>
+        <!-- Ordered list of steps in the recipe -->
+        <li>Preheat your oven to 350°F (175°C) and grease two 9-inch round cake pans.</li>
+        <li>In a large bowl, cream together the softened butter and sugar until light and fluffy.</li>
+        <li>Add the eggs one at a time, mixing well after each addition.</li>
+        <li>Stir in the vanilla extract and pureed strawberries.</li>
+        <li>In a separate bowl, combine the flour and baking powder.</li>
+        <li>Gradually add the dry ingredients to the wet mixture, alternating with the milk, and mix until just combined.</li>
+        <li>Divide the batter evenly between the prepared cake pans.</li>
+        <li>Bake for 25-30 minutes, or until a toothpick inserted into the center comes out clean.</li>
+        <li>Let the cakes cool in the pans for 10 minutes, then transfer to wire racks to cool completely.</li>
+        <li>Once cooled, frost with whipped cream and decorate with sliced strawberries.</li>
+        <li>Slice and serve chilled. Enjoy!</li>
+    </ol></center>
+   
+    <footer>
+        <center><p>&copy; Owner : Ayesha Zulfiqar.</p></center>
+    </footer>
+</body>
+</html>
