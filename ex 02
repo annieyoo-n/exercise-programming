@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maze Runner: The Death Cure</title>
+    <link rel="stylesheet" href="ch2.css">
+   
+
+</head>
+<body>
+
+    <!-- Navigation Bar -->
+    <nav>
+        <ul>
+            <li><a href="#plot">Plot</a></li>
+            <li><a href="#info">Key Info</a></li>
+            <li><a href="#cast">Cast</a></li>
+            <li><a href="#characters">Characters</a></li>
+            <li><a href="#reviews">Reviews</a></li>          
+        </ul>
+    </nav>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Maze Runner: The Death Cure</h1>
+        <p>The thrilling conclusion to the Maze Runner saga.</p>
+        <a href="https://www.20thcenturystudios.com/movies/maze-runner-the-death-cure" target="_blank" class="btn">Official Website</a>
+    </header>
+
+    <!-- Content Sections -->
+    <section id="plot">
+        <h2>Plot</h2>
+        <p>Thomas and his friends embark on a dangerous mission to save their captured friends and take down WCKD...</p>
+    </section>
+
+    <section id="info">
+        <h2>Key Information</h2>
+        <ul>
+            <li><strong>Director:</strong> Wes Ball</li>
+            <li><strong>Release Date:</strong> January 26, 2018</li>
+            <li><strong>Genre:</strong> Sci-Fi, Action</li>
+        </ul>
+    </section>
+
+    <section id="cast">
+        <h2>Cast</h2>
+        <ul>
+            <li>Dylan O'Brien as Thomas</li>
+            <li>Kaya Scodelario as Teresa</li>
+            <li>Thomas Brodie-Sangster as Newt</li>
+        </ul>
+    </section>
+
+    <section id="characters">
+        <h2>Main Characters</h2>
+        <ul>
+            <li><strong>Thomas:</strong> The leader of the group, determined to save his friends.</li>
+            <li><strong>Newt:</strong> Thomas' closest friend, struggling with a deadly virus.</li>
+        </ul>
+    </section>
+
+    <section id="reviews">
+        <h2>Reviews</h2>
+        <p>The film received mixed reviews, with praise for the action sequences but criticism for its pacing.</p>
+    </section>
+
+</body>
+</html>
