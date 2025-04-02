@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embedded Video</title>
+    <style>
+        /* Centering the video horizontally & vertically */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #e0abab;
+    margin: 0;
+}
+
+.video-container {
+    text-align: center;
+}
+
+video {
+    width: 150%; /* Adjust needed */
+    max-width: 800px;
+    border: 10px solid rgb(71, 61, 128);
+    border-radius: 30px;
+}
+
+    </style>
+</head>
+<body>
+
+    <div class="video-container">
+        <video controls loop image="c:\Users\zulfi\Documents\OneDrive\Desktop\Cyber Security\WhatsApp Image 2025-04-02 at 17.43.27_7425c83b.JPG">
+            <source src="c:\Users\zulfi\Documents\OneDrive\Videos\sunsetttt - Made with Clipchamp.mp4" type="video/mp4">
+            
+        </video>
+        </div>
+
+</body>
+</html>
