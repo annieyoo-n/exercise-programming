@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cyber Security Study Plan</title>
+    <link rel="stylesheet" href="advanced.css">
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Cyber Security Study Plan</h1>
+    </header>
+
+    <!-- Navigation Menu -->
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Topics</a></li>
+            <li><a href="#">Resources</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Main Content Section -->
+    <main>
+        <section class="column">
+            <h2>Cyber Security Topics</h2>
+            <ul>
+                <li>🔐 Network Security</li>
+                <li>💻 Ethical Hacking</li>
+                <li>🛡️ Cryptography</li>
+                <li>📝 Risk Management</li>
+                <li>🌐 Web Security</li>
+            </ul>
+        </section>
+
+        <section class="column">
+            <h2>Study Material</h2>
+            <p>Explore study materials and guides to master cyber security.</p>
+            <button>Download Study Guide</button>
+        </section>
+
+        <section class="column">
+            <h2>Important Links</h2>
+            <ul>
+                <li><a href="#">OWASP Top 10</a></li>
+                <li><a href="#">NIST Cybersecurity Framework</a></li>
+                <li><a href="#">Certified Ethical Hacker (CEH)</a></li>
+                <li><a href="#">MITRE ATT&CK Framework</a></li>
+                <li><a href="#">Cybersecurity News</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Cyber Security Study Plan. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
