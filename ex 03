@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -55,19 +54,23 @@ img:hover {
         <!-- First Image -->
         <div>
             <img src="c:\Users\zulfi\Documents\OneDrive\Aura\Screenshot_20220606-201829_Instagram.jpg" alt="A peaceful mountain landscape during sunrise" width="400" height="250" title="peacefulk Sunrise">
-            <p>📜 A peaceful sunrise</p>
+            <h2> A peaceful sunrise</h2>
+            <p>📜 License: Free to use under Pixabay License</p>
+
         </div>
 
         <!-- Second Image -->
         <div>
             <img src="c:\Users\zulfi\Documents\OneDrive\Aura\Screenshot_20220704-182130_Instagram.jpg" alt="A calm lake reflecting the twilight sky" width="400" height="250" title="Mystic Forest">
-            <p>📜 A calm lake reflecting the twilight sky </p>
+            <h2> A calm lake reflecting the twilight sky </h2>
+            <p>📜 License: Free to use under Pixabay License</p>
         </div>
 
         <!-- Third Image -->
         <div>
             <img src="c:\Users\zulfi\Documents\OneDrive\Aura\Screenshot_20220606-201900_Instagram.jpg" alt="As endless as the ocean" width="400" height="250" title="Twilight Reflections">
-            <p>📜 As endless as the ocean</p>
+            <h2>As endless as the ocean</h2>
+            <p>📜 License: Free to use under Pixabay License</p>
         </div>
     </div>
 
