@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Themed Image Gallery</title>
+    <link rel="stylesheet" href="ch3.css">
+</head>
+<body>
+
+    <h1>Nature's Beauty</h1>
+    <p>Explore the stunning beauty of nature through these breathtaking images.</p>
+
+    <div class="gallery">
+        <!-- First Image -->
+        <div>
+            <img src="c:\Users\zulfi\Documents\OneDrive\Aura\Screenshot_20220606-201829_Instagram.jpg" alt="A peaceful mountain landscape during sunrise" width="400" height="250" title="peacefulk Sunrise">
+            <p>📜 A peaceful sunrise</p>
+        </div>
+
+        <!-- Second Image -->
+        <div>
+            <img src="c:\Users\zulfi\Documents\OneDrive\Aura\Screenshot_20220704-182130_Instagram.jpg" alt="A calm lake reflecting the twilight sky" width="400" height="250" title="Mystic Forest">
+            <p>📜 A calm lake reflecting the twilight sky </p>
+        </div>
+
+        <!-- Third Image -->
+        <div>
+            <img src="c:\Users\zulfi\Documents\OneDrive\Aura\Screenshot_20220606-201900_Instagram.jpg" alt="As endless as the ocean" width="400" height="250" title="Twilight Reflections">
+            <p>📜 As endless as the ocean</p>
+        </div>
+    </div>
+
+</body>
+</html>
